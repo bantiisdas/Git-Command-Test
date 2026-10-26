@@ -1,1 +1,2 @@
 Hello from Supriya
+In calculator.js, we have the functions
