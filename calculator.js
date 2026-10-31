@@ -18,3 +18,10 @@ function modulus(a, b) {
 function power(a, b) {
   return a ** b;
 }
+
+console.log(add(1, 2));
+console.log(subtract(1, 2));
+console.log(multiply(1, 2));
+console.log(divide(1, 2));
+console.log(modulus(1, 2));
+console.log(power(1, 2));
