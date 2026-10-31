@@ -12,3 +12,8 @@ function calculator(a, b, operator) {
       return a / b;
   }
 }
+
+console.log(calculator(1, 2, "+"));
+console.log(calculator(1, 2, "-"));
+console.log(calculator(1, 2, "*"));
+console.log(calculator(1, 2, "/"));
